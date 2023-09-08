@@ -1,2 +1,1 @@
-# Flask_blog
-# Flask blog application
+# Flask_Blog
